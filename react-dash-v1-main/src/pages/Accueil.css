@@ -1,0 +1,23 @@
+.dashboard-container {
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px;
+  }
+  
+  .dashboard-container h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .dashboard-container p {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .dashboard-container img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+  
